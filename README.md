@@ -1,6 +1,6 @@
-# My QR Code Generator
+# Clip to QR 📋➡️📱
 
-This project generates a QR code from the text in your clipboard and displays it in a Tkinter window.
+A Python tool that generates a QR code from clipboard text and displays it in a GUI window using Tkinter.
 
 ## Requirements
 
@@ -8,11 +8,11 @@ This project generates a QR code from the text in your clipboard and displays it
 - qrcode
 - pyperclip
 
-## Installation
+## 🚀 Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/patricnilackshan/qrgen.git
+    git clone https://github.com/patricnilackshan/clip-to-qr.git
     cd qrgen
     ```
 
@@ -21,7 +21,7 @@ This project generates a QR code from the text in your clipboard and displays it
     pip install -r requirements.txt
     ```
 
-## Usage
+## 🖥️ Usage
 
 Run the `main.py` script:
 ```sh
