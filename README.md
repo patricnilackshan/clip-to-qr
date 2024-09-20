@@ -4,7 +4,7 @@ Clip2QR is a simple Python script that converts the text from your clipboard int
 
 <br>
 
-## Requirements
+## 🎯 Requirements
 
 - Python 3.x
 - qrcode
