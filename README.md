@@ -1,6 +1,8 @@
 # Clip to QR 📋➡️📱
 
-A Python tool that generates a QR code from clipboard text and displays it in a GUI window using Tkinter.
+Clip2QR is a simple Python script that converts the text from your clipboard into a QR code, making it easy to transfer text from your computer to your phone.
+
+<br>
 
 ## Requirements
 
